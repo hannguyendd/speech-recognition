@@ -13,7 +13,7 @@ A Python-based speech recognition system that converts text to speech and speech
 ## Project Structure
 
 ```
-speech-reconigtion/
+speech-recognition/
 ├── main.py                 # Main application entry point
 ├── pyproject.toml         # Project configuration and dependencies
 ├── README.md              # Project documentation
@@ -47,7 +47,7 @@ speech-reconigtion/
 
 ```bash
 git clone <repository-url>
-cd speech-reconigtion
+cd speech-recognition
 ```
 
 2. Install dependencies using uv:

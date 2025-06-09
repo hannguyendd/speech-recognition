@@ -1,5 +1,5 @@
 [project]
-name = "speech-reconigtion"
+name = "speech-recognition"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
